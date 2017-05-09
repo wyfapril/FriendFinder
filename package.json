@@ -1,0 +1,20 @@
+{
+	"name": "FriendFinder",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"dependencies": {
+		"express": "^4.15.2",
+		"body-parser": "^1.17.1",
+		"path": "^0.12.7"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"author": "wyfapril",
+	"license": "ISC",
+	"engine": {
+		"node": "6.9.2"
+	}
+}
